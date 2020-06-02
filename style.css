@@ -6,15 +6,15 @@ body{
   /* background-image: linear-gradient(#ff6161,#ff768c); */
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   /* background: transparent linear-gradient(120deg,#f28121,#e94057 51%,#d146cd); */
-  background: transparent linear-gradient(193deg,#f28121,#e94057 51%,#d146cd) 0 0 no-repeat padding-box;
+  background: transparent linear-gradient(193deg,#f28121,#e94057 51%,#b051d6) 0 0 no-repeat padding-box;
   /* background-image: linear-gradient(,#ffbe31,#ff491c,#a915bd); */
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size:cover;
   font-family: sans-serif;
-  color: #0f222d;
+  /* color: #0f222d; */
 }
 
 .main{
